@@ -7,7 +7,7 @@
 ### The FAQ Accordion Card challenge is a good exercise in creating an interactive component using HTML and CSS. It requires the following:
 
 - Creating the HTML structure for the accordion card.
-- Styling the card with CSS, including animations and transitions.
+- Styling the card with CSS.
 
 ## Tech Stack
 - HTML
