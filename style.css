@@ -86,9 +86,7 @@ details summary::before {
   content: url(./img/images/icon-arrow-down.svg);
   position: absolute;
   top: 50%;
-  right: -10px;
-  transform: translateY(-50%);
-  margin-right: 10px;
+  right: 10px;
 }
 
  details[open] summary::before {
@@ -207,9 +205,8 @@ details[open] summary{
       content: url(./img/images/icon-arrow-down.svg);
       position: absolute;
       top: 50%;
-      right: -10px;
-      transform: translateY(-50%);
-      margin-right: 10px;
+      right: 10px;
+      /* margin-right: 10px; */
     }
     
      details[open] summary::before {
